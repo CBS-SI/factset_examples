@@ -1,0 +1,13 @@
+name: factset
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - python-dotenv
+  - pandas
+  - numpy
+  - ipykernel
+  - pip
+  - pip:
+    - fds.sdk.utils
+    - fds.sdk.FactSetSupplyChain==2.0.1
