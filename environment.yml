@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - fds.sdk.utils
     - fds.sdk.FactSetSupplyChain==2.0.1
+    - fds.sdk.FactSetESG==1.2.2
